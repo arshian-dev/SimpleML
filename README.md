@@ -158,7 +158,7 @@ For a comprehensive guide covering:
 - Backpropagation explained
 - Optimizer algorithms
 
-See **[GUIDE.md](GUIDE.md)** or the **[PDF Report](SimpleML_Neural_Network_Report.docx)**
+See **[GUIDE.md](GUIDE.md)** or the **[PDF Report](SimpleML_Neural_Network_Report.pdf)**
 
 ## API Reference
 
